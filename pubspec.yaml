@@ -1,7 +1,7 @@
 name: ledgerline
-description: Personal ledger in Dart. A command-line tool plus its own small HTTP service (shelf, JSON-file storage). Standalone, no other services needed.
+description: Personal ledger in Dart. A command-line tool plus its own small HTTP service (shelf, JSON-file storage). Budgets, recurring entries, CSV import and export. Standalone.
 publish_to: none
-version: 1.0.0
+version: 2.0.0
 environment:
   sdk: ">=3.4.0 <4.0.0"
 dependencies:
