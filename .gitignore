@@ -1,0 +1,5 @@
+.dart_tool/
+build/
+ledger.json
+*-test.json
+*.exe
