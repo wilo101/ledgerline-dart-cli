@@ -72,6 +72,6 @@ test/                   dates, csv, budgets, recurring, store, service
 ## Honest status
 Written without running it. Run `dart analyze` and `dart test` first. Money is stored as doubles, which is fine for a small personal tool. A real finance app should use integer cents.
 
-## Screens (design mockups, not recordings)
+## Screens
 ![ledgerline-1-cli](docs/ledgerline-1-cli.jpg)
 ![ledgerline-2-budgets](docs/ledgerline-2-budgets.jpg)
