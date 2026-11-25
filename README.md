@@ -74,3 +74,4 @@ Written without running it. Run `dart analyze` and `dart test` first. Money is s
 
 ## Screens (design mockups, not recordings)
 ![ledgerline-1-cli](docs/ledgerline-1-cli.jpg)
+![ledgerline-2-budgets](docs/ledgerline-2-budgets.jpg)
